@@ -1,0 +1,2 @@
+# Smoke-Detector-using-Fuzzy-Logic
+Project ini merupakan sebuah sistem berbasis Internet of Thing untuk  memantau kadar asap dimana kadar asap akan ditampilkan pada website  secara realtime. Sistem ini dilengkapi status peringatan berdasarkan  tingkat kepekatan asap yaitu aman, waspada, dan berbahaya. Kemudian,  pada alat project ini dilengkapi dengan indikator berupa tiga buah lampu yang mewakili kondisi asap. Project ini dibangun dengan bahasa  pemograman C++, PHP dan HTML untuk mebuat website, software  Arduino dan modul ESP8266.
